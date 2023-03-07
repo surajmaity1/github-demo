@@ -1,2 +1,16 @@
 Hello Everyone, this is the first text file of github-demo repo.
 New line added
+
+function1(){
+    new function1()
+}
+
+
+function2(){
+    new function2()
+}
+
+
+function3(){
+    new function3()
+}
